@@ -1,3 +1,3 @@
 # Learning React Redux
 
-Simple weather app
+Simple weather app from React Redux
